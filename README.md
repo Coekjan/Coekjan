@@ -1,3 +1,7 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?theme=dark&username=coekjan&show_icons=true&hide_title=true&hide_border=true" /><img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=coekjan&layout=compact&show_icons=true&hide_border=true" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coekjan&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Coekjan&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Coekjan&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coekjan&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coekjan&theme=nord_bright&utcOffset=8)
