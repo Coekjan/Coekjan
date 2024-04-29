@@ -1,1 +1,3 @@
-[![Github Trends](https://api.githubtrends.io/user/svg/Coekjan/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io) [![Github Trends](https://api.githubtrends.io/user/svg/Coekjan/repos?time_range=one_year&group=other&theme=synthwaves)](https://githubtrends.io) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coekjan&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coekjan&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coekjan&theme=dark&utcOffset=8)
