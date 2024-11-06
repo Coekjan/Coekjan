@@ -7,3 +7,4 @@
 -----------
 
 - 📝 [My Resume](https://coekjan.github.io/resume)
+- 📚 [My Reading List](https://coekjan.github.io/reading-list)
